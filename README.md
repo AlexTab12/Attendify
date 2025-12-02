@@ -20,6 +20,6 @@ We built it with:
 	-	NotificationManager for alerts
 
 Notes
-	- Everything runs locally with Room, no backend needed
-	-	UI is kept simple but functional
-  - We didn't make a log-in page due to time constraint
+	-	Everything runs locally with Room, no backend needed
+	- 	UI is kept simple but functional
+  	-	We didn't make a log-in page due to time constraint
